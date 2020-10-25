@@ -50,6 +50,7 @@ hr {
 }
 .middle-container {
   margin: 100px 0;
+  position: relative;
 }
 .bottom-container {
   background-color: #66bfbf;
@@ -57,7 +58,7 @@ hr {
 }
 .intro {
   width: 30%;
-  margin: auto;
+  margin: auto auto 50px;
 }
 .contact-message {
   width: 35%;
