@@ -1,3 +1,3 @@
 # personal-site-basic
 
-[Website](https://rahul.cf/)
+[Website](https://krishrahul98.me/)
