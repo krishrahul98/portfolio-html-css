@@ -110,9 +110,67 @@ hr {
   border-radius: 8px;
   font-family: "Montserrat", sans-serif;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 1.2rem;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
+}
+@media only screen and (max-width: 600px) {
+  .btn {
+    font-size: 1rem;
+  }
+  h1 {
+    font-size: 2.5rem;
+  }
+  .top-cloud {
+    width: 20%;
+    right: 15%;
+  }
+  .top-container {
+    padding-top: 50px;
+  }
+  .bottom-cloud {
+    width: 20%;
+    bottom: 35%;
+    left: 15%;
+  }
+  .subtitle {
+    font-size: 1.25rem;
+  }
+  .intro {
+    width: 70%;
+    text-align: left;
+  }
+  .middle-container {
+    margin: 50px 0;
+  }
+  .skill-row {
+    width: 70%;
+    margin: 50px auto;
+  }
+  h2 {
+    font-size: 2rem;
+  }
+  hr {
+    margin: 40px auto;
+  }
+  .profile-pic {
+    width: 50%;
+  }
+  a {
+    margin: 10px;
+  }
+  h3 {
+    width: 80%;
+    margin: auto;
+  }
+  .contact-message {
+    width: 70%;
+  }
+  .prog-lang,
+  .frameworks,
+  .database {
+    width: 20%;
+  }
 }
 
 .btn:hover {
